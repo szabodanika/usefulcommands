@@ -1,4 +1,5 @@
 ## General
+
 |What                |How                          |
 |----------------|-------------------------------|
 |Find process using port| `netstat -ltnp \| grep -w ':[PORT]'`            |
@@ -6,6 +7,7 @@
 |List processes          | `htop` |
 
 ## Immortal
+
 |What                |How                          |
 |----------------|-------------------------------|
 |Start immortal process| `immortal [command]`            |
