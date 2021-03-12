@@ -14,30 +14,3 @@
 |List running processes managed by immortal          | `immortalctl`            |
 |Kill all immortal processes          | `immortalctl halt "*"` |
 
-+---------+----------+
-| Name    | Columns  |
-+=========+==========+
-| PRIMARY | - id one |
-|         | - id two |
-+---------+----------+
-
-<table>
-  <tr>
-    <td>
-      1
-    </td>
-        <td>
-      2
-    </td>
-    
-  </tr>
-   <tr>
-    <td>
-      1
-    </td>
-        <td>
-      2
-    </td>
-    
-  </tr>
-</table>
