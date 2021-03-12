@@ -1,3 +1,9 @@
 name: Daniel Szabo
 title: null
 theme: jekyll-theme-cayman
+docs_list_title: Useful Commands
+docs:
+- title: Home
+  url: 
+- title: Linux
+  url: linux.html
