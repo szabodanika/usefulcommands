@@ -14,6 +14,12 @@
 |List running processes managed by immortal          | `immortalctl`            |
 |Kill all immortal processes          | `immortalctl halt "*"` |
 
++---------+----------+
+| Name    | Columns  |
++=========+==========+
+| PRIMARY | - id one |
+|         | - id two |
++---------+----------+
 
 <table>
   <tr>
