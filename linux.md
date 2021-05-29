@@ -14,3 +14,18 @@
 |List running processes managed by immortal          | `immortalctl`            |
 |Kill all immortal processes          | `immortalctl halt "*"` |
 
+## PiVPN
+
+|What                |How                          |
+|----------------|-------------------------------|
+|Add client| pivpn add |
+|Show QR for client| pivpn qr |
+|Connected Clients| pivpn -c |
+
+
+## PiHole
+
+|What                |How                          |
+|----------------|-------------------------------|
+|Show live log| pihole -t |
+|Show chronometer| pihole -c |
