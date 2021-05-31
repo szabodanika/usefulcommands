@@ -18,14 +18,14 @@
 
 |What                |How                          |
 |----------------|-------------------------------|
-|Add client| pivpn add |
-|Show QR for client| pivpn qr |
-|Connected Clients| pivpn -c |
+|Add client| `pivpn add` |
+|Show QR for client| `pivpn qr` |
+|Connected Clients| `pivpn -c` |
 
 
 ## PiHole
 
 |What                |How                          |
 |----------------|-------------------------------|
-|Show live log| pihole -t |
-|Show chronometer| pihole -c |
+|Show live log| `pihole -t` |
+|Show chronometer| `pihole -c` |
