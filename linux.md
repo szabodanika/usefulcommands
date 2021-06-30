@@ -21,6 +21,7 @@
 |Add client| `pivpn add` |
 |Show QR for client| `pivpn qr` |
 |Connected Clients| `pivpn -c` |
+|All Clients| `pivpn -l` |
 
 
 ## PiHole
@@ -29,3 +30,6 @@
 |----------------|-------------------------------|
 |Show live log| `pihole -t` |
 |Show chronometer| `pihole -c` |
+
+## SSH to access Duplicatii web interface
+`ssh -f user@host.ip -L 12345:localhost:8200 -N`
